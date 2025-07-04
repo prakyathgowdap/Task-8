@@ -1,0 +1,20 @@
+Sales Dashboard – Key Insights
+✅ Insight 1: Regional Performance
+West Region generated the highest sales among all regions.
+
+South Region contributed the lowest sales.
+
+✅ Insight 2: Category Performance
+Technology Category had the maximum sales.
+
+Furniture Category performed the lowest in comparison.
+
+✅ Insight 3: Sales Trend Over Time
+Sales showed steady growth throughout the year.
+
+Highest sales occurred in the last quarter (Q4), indicating seasonal demand.
+
+✅ Insight 4: Actionable Recommendations
+Focus on improving sales in the South Region.
+
+Leverage the strong performance of Technology products during peak seasons.
